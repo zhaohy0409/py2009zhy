@@ -3,3 +3,4 @@ def unm():
     return a
 print(hallo word!)
 print(unm())
+print(2*3*4*5)
